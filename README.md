@@ -1,6 +1,6 @@
 # Another pwn challenge docker env
 
-Docker container based on arch, usiny [ynetd](https://github.com/johnsonjh/ynetd)
+Docker container based on arch, using [ynetd](https://github.com/johnsonjh/ynetd)
 
 # Setup & run 
 
